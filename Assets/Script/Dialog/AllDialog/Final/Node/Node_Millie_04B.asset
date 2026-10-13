@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb0127649276e2846b14ae72d8ec6bec, type: 3}
+  m_Name: Node_Millie_04B
+  m_EditorClassIdentifier: 
+  speakerName: Millie
+  speakerIcon: {fileID: 21300000, guid: 95fd0de83461db840b8bec91f0351a2d, type: 3}
+  dialogueText: I was waiting for you so we could make it together. And it seems
+    we're just in time...
+  choices:
+  - choiceText: Next
+    targetNode: {fileID: 11400000, guid: 63c72720867b7d84fb1d2d90b511db28, type: 2}

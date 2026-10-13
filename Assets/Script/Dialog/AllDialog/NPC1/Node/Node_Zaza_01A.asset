@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb0127649276e2846b14ae72d8ec6bec, type: 3}
+  m_Name: Node_Zaza_01A
+  m_EditorClassIdentifier: 
+  speakerName: Zaza
+  speakerIcon: {fileID: 21300000, guid: 73193824f80abac4da0db0fc1562eff7, type: 3}
+  dialogueText: She sent a letter! She's waiting for me on the other side of the
+    island
+  choices:
+  - choiceText: Next
+    targetNode: {fileID: 11400000, guid: 2a86f790c85ee034b8733863f552b967, type: 2}

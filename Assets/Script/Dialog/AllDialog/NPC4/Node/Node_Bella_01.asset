@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb0127649276e2846b14ae72d8ec6bec, type: 3}
+  m_Name: Node_Bella_01
+  m_EditorClassIdentifier: 
+  speakerName: Bella
+  speakerIcon: {fileID: 21300000, guid: d22ba0693522d304d98a2ddbe48d973f, type: 3}
+  dialogueText: Zaza, hi! Look at this bush! My purple berries are incredibly sweet
+    and juicy this year!
+  choices:
+  - choiceText: Next
+    targetNode: {fileID: 11400000, guid: 3aca14ba799a0594eb6285c73b578d17, type: 2}
